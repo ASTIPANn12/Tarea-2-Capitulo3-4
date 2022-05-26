@@ -1,12 +1,11 @@
 # Tarea-2-Capitulo3-4
 # OBJETIVO GENERAL 
 Analizar los problemas de corriente, voltaje y resistencia, aplicando ley de ohm para el desarrollo de los distintos ejercicios propuesstos en el libro de floyd .
-Explicar el uso de energia y potencia 
+Estudiar las formulas de la energia y potencia aplicando los conceptos mediante ejercicios de repaso y ejemplos propuestos. 
 # Objetivo especifico
-
-
-
-
+Calcular corriente, voltaje y resistencias de los circuitos planteados 
+Explicar la ley de ohm y lo que es potencias y energia
+Explicar el usos y las conversión de energía y la caída de voltaje
 Definir los terminos de energia y potencia para el estudio de circuitos electricos
 
 # Marco Teorico
@@ -196,9 +195,19 @@ __SECCIÓN 4–5 Fuentes de potencia__
 
 # VIDEO
 
+https://youtu.be/1X02mmiLMdk
+
 # CONCLUSIONES
+ 
+ 1.- En conclusión es fundamental  el saber diferenciar entre energía y potencia para no cometer errores al emplear las formulas y conceptos en el estudio de circuitos eléctricos 
+
+2.- Se concluye que  la buena utilización  de la ley de ohm nos permitirá un mejor aprendizaje ya que esta ley se aplica para todos los circuitos que vayamos a utilizar.
+
+El uso de las unidades métricas serán fundamentales ya que se utiliza en la mayoría dejercicios que realicemos a lo largo del estudio de la materia.
 
 # BIBLIOGRAFIA
  
+ Principios de circuitos electricos Floyd-protegido.pdf. Google Docs. Recuperado el 26 de mayo de 2022, de https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
+intensidad de cortocircuito. Recuperado el 26 de mayo de 2022, de https://www.areatecnologia.com/electricidad/intensidad-cortocircuito.html
 
