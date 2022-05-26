@@ -1,11 +1,18 @@
 # Tarea-2-Capitulo3-4
 # OBJETIVO GENERAL 
+
 Analizar los problemas de corriente, voltaje y resistencia, aplicando ley de ohm para el desarrollo de los distintos ejercicios propuesstos en el libro de floyd .
+
 Estudiar las formulas de la energia y potencia aplicando los conceptos mediante ejercicios de repaso y ejemplos propuestos. 
+
 # Objetivo especifico
+
 Calcular corriente, voltaje y resistencias de los circuitos planteados 
+
 Explicar la ley de ohm y lo que es potencias y energia
+
 Explicar el usos y las conversión de energía y la caída de voltaje
+
 Definir los terminos de energia y potencia para el estudio de circuitos electricos
 
 # Marco Teorico
