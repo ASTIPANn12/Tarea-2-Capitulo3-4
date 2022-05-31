@@ -1,23 +1,25 @@
 # Tarea-2-Capitulo3-4
 # OBJETIVO GENERAL 
 
-Analizar los problemas de corriente, voltaje y resistencia, aplicando ley de ohm para el desarrollo de los distintos ejercicios propuesstos en el libro de floyd .
+• Analizar los problemas de corriente, voltaje y resistencia, aplicando ley de ohm para el desarrollo de los distintos ejercicios propuesstos en el libro de floyd .
 
-Estudiar las formulas de la energia y potencia aplicando los conceptos mediante ejercicios de repaso y ejemplos propuestos. 
+• Estudiar las formulas de la energia y potencia aplicando los conceptos mediante ejercicios de repaso y ejemplos propuestos. 
 
 # Objetivo especifico
 
-Calcular corriente, voltaje y resistencias de los circuitos planteados 
+• Calcular corriente, voltaje y resistencias de los circuitos planteados 
 
-Explicar la ley de ohm y lo que es potencias y energia
+• Explicar la ley de ohm y lo que es potencias y energia
 
-Explicar el usos y las conversión de energía y la caída de voltaje
+• Explicar el usos y las conversión de energía y la caída de voltaje
 
-Definir los terminos de energia y potencia para el estudio de circuitos electricos
+• Definir los terminos de energia y potencia para el estudio de circuitos electricos
 
 # Marco Teorico
- # CAPITULO 3 LEY DE OHM
-# 3–1 LA RELACIÓN DE CORRIENTE, VOLTAJE Y RESISTENCIA
+
+ ### CAPITULO 3 LEY DE OHM
+ 
+  ### 3–1 LA RELACIÓN DE CORRIENTE, VOLTAJE Y RESISTENCIA
 
 ![Untitled (7)](https://user-images.githubusercontent.com/105671364/170504505-c6160ea2-4b48-4587-aad2-923aad913e61.jpg)
 
@@ -28,11 +30,19 @@ ___3-5 INTRODUCCIÓN A LA LOCALIZACIÓN DE FALLAS___
 
 ![Untitled (9)](https://user-images.githubusercontent.com/105671364/170531497-98fa0450-da34-4861-975d-5e9082e3047a.jpg)
 
+___Capitulo 4___
+
+____Energia y potencia____
+
+
+![Untitled (10)](https://user-images.githubusercontent.com/105671364/171230560-d3188faf-b6a2-41d1-a051-dfa78fc14fe1.jpg)
+
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-___Capitulo 3____
 
-____SECCION 3-1La relación de corriente, voltaje y resistencia __
+___Capitulo 3___
+
+  ___SECCION 3-1La relación de corriente, voltaje y resistencia___
 
 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 ![Q1](https://user-images.githubusercontent.com/105671364/170520195-185e6a87-e39c-4499-9118-0fb425fc2f5c.jpg)
@@ -216,5 +226,6 @@ El uso de las unidades métricas serán fundamentales ya que se utiliza en la ma
  
  Principios de circuitos electricos Floyd-protegido.pdf. Google Docs. Recuperado el 26 de mayo de 2022, de https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
-intensidad de cortocircuito. Recuperado el 26 de mayo de 2022, de https://www.areatecnologia.com/electricidad/intensidad-cortocircuito.html
+Intensidad de cortocircuito. Recuperado el 26 de mayo de 2022, de https://www.areatecnologia.com/electricidad/intensidad-cortocircuito.html
 
+Bibguru.Com. Recuperado el 31 de mayo de 2022, de https://app.bibguru.com/p/a1c36376-1f02-44ae-9140-d4e8ce770b97
