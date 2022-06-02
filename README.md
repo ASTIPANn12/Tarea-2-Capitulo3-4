@@ -3,7 +3,7 @@
 
 • Analizar los problemas de corriente, voltaje y resistencia, aplicando ley de ohm para el desarrollo de los distintos ejercicios propuesstos en el libro de floyd .
 
-• Estudiar las formulas de la energia y potencia aplicando los conceptos mediante ejercicios de repaso y ejemplos propuestos. 
+• Estudiar las formulas de  energia y potencia aplicando los conceptos mediante ejercicios de repaso y ejemplos propuestos. 
 
 # Objetivo especifico
 
